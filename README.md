@@ -3,11 +3,9 @@
 
 The optimized dark theme for web development.
 
-- [Bytes Newsletter Theme](https://2u841r.github.io/bytes-newsletter-theme/)
-
 ## Intuitive Syntax Highlighting
 
-[Bytes Newsletter Theme](https://2u841r.github.io/bytes-newsletter-theme/) is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, SCSS/LESS, PHP (WordPress), and JavaScript (React, Vue).
+**Bytes Newsletter Theme** is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, and JavaScript (React).
 
 - HTML & CSS work together
 - Optimized for JSX and React
@@ -44,6 +42,7 @@ The optimized dark theme for web development.
 ### VSC: HTML 
 ![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/html.png)
 
+
 ## Acknowledgements
 
 - Originally inspired by [Bytes.dev](https://Bytes.dev). 
@@ -54,7 +53,7 @@ The optimized dark theme for web development.
 Logo courtesy of [Bytes.dev](https://Bytes.dev)
 
 ## Author
-- [Zubair Ibn Zamir](https://zmt3.com/)
+- [Zubair Ibn Zamir](https://zmt3.com)
 
 
 ## License
