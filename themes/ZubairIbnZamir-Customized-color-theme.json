@@ -1,0 +1,130 @@
+{
+    "name": "ZubairIbnZamir",
+    "colors": {
+        "editor.background": "#263238",
+        "editor.foreground": "#C0C5CE",
+        "activityBarBadge.background": "#007acc",
+        "sideBarTitle.foreground": "#bbbbbb"
+    },
+    "tokenColors": [
+        {
+            "name": "#0ba95b attribute",
+            "scope": [
+                "entity.other.attribute-name",
+            ],
+            "settings": {
+                "foreground": "#0ba95b"
+            }
+        },
+        {
+            "name": "#12b5e5    KEYWORDS",
+            "scope": [
+                "entity.name.tag.css",
+                "variable.other.constant.object",
+                "variable.other.readwrite.js.jsx",
+                "entity.name.type.class",
+                "variable.object.property",
+                "meta.tag.metadata.doctype.html entity.name.tag.html",
+                "meta.tag.metadata.doctype.html entity.other.attribute-name.html",
+                "support.type.property-name.css",
+                "keyword.operator",
+                // "entity.name.function",
+                "entity.other.inherited-class",
+                "meta.embedded.line variable.other",
+                "storage.type.function.arrow.js",
+                "punctuation.separator.key-value",
+                "punctuation.definition.section.case-statement",
+                "meta.object-literal.key",
+                // "new.expr",
+                "new.expr entity.name.function",
+                "new.expr support.class",
+                "constant.language.import-export-all"
+            ],
+            "settings": {
+                "foreground": "#12b5e5"
+            }
+        },
+        {
+            "name": "#9d7dce",
+            "scope": [
+                "meta.method.declaration storage.type",
+                "meta.function.color.css support.function.misc.css",
+                "entity.name.function",
+                "constant.language.boolean",
+                "new.expr meta.block entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#9d7dce"
+            }
+        },
+        {
+            "name": "#f38ba3",
+            "scope": [
+                "entity.name.tag",
+                "entity.name.tag.html",
+                "storage.modifier",
+                "storage.type",
+                "storage.type.property",
+                "keyword.control",
+                "keyword.operator.expression",
+                "keyword.operator.new",
+                "variable.language",
+                "meta.parameters",
+                "punctuation.definition.string.template",
+            ],
+            "settings": {
+                "foreground": "#f38ba3"
+            }
+        },
+        {
+            "name": "#fcba28",
+            "scope": [
+                "constant.numeric",
+                "string.quoted.double.html"
+            ],
+            "settings": {
+                "foreground": "#fcba28"
+            }
+        },
+        {
+            "name": "#f99157",
+            "scope": [
+                "support.constant.font-name.css",
+                "support.constant.property-value.css",
+                "string",
+                "punctuation.definition.string",
+                "string.quoted.double.js.jsx punctuation.definition.string"
+            ],
+            "settings": {
+                "foreground": "#f99157"
+            }
+        },
+        {
+            "name": "#C0C5CE",
+            "scope": [
+                "meta.template.expression",
+                "variable.other",
+                "string.regexp",
+                "string.regexp keyword.operator.or.regexp",
+                "string.regexp punctuation.definition.string",
+            ],
+            "settings": {
+                "foreground": "#C0C5CE"
+            }
+        },
+        {
+            "name": "Unified Punctuation Color",
+            "scope": [
+                "string.quoted.double.html punctuation.definition.string",
+                "tag.begin.html",
+                "tag.end.html",
+                "meta.brace",
+                "punctuation",
+                "punctuation.separator.parameter",
+            ],
+            "settings": {
+                "foreground": "#f9f4da"
+            }
+        },
+    ]
+}

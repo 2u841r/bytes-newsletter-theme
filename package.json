@@ -1,0 +1,42 @@
+{
+  "name": "zubairibnzamir-bytes-newsletter",
+  "displayName": "Bytes Newletter Theme",
+  "description": "Bytes dot DEV Newletter / Tyler form UI dot DEV theme",
+  "version": "0.0.1",
+  "publisher": "ZubairIbnZamir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2u841r/bytes-newsletter-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tyler",
+    "uidev",
+    "bytes dev",
+    "bytes newsletter",
+    "ui dot dev",
+    "bytes dot dev"
+  ],
+  
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bytes Newletter Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZubairIbnZamir-color-theme.json"
+      },
+      {
+        "label": "Bytes Newletter Colorized+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZubairIbnZamir-Customized-color-theme.json"
+      }
+    ]
+  }
+}
