@@ -35,17 +35,17 @@ The optimized dark theme for web development.
 
 ![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/hcc.png)
 
-### JS
+### Javascript
 
 ![New Moon Screenshot JS](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/j.png)
 
 ### JSX
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/rco.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/ro.png)
 
 ### JSX Colorized+
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/rcc.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/rc.png)
 
 ## Acknowledgements
 
