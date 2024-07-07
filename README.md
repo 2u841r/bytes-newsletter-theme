@@ -1,4 +1,5 @@
 # Bytes Newsletter Theme
+![Bytes](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/logo.png) 
 
 The optimized dark theme for web development.
 
@@ -45,12 +46,16 @@ The optimized dark theme for web development.
 
 ## Acknowledgements
 
-- Originally inspired by [Bytes.dev](https://Bytes.dev).
+- Originally inspired by [Bytes.dev](https://Bytes.dev). 
 - Tutorial by [Coder Coder](https://www.youtube.com/watch?v=pGzssFNtWXw)
 - Color Names Collected from  [colorprofessor.com](https://colorprofessor.com).
 
+## Credits 
+Logo courtesy of [Bytes.dev](https://Bytes.dev)
+
 ## Author
 - [Zubair Ibn Zamir](https://zmt3.com/)
+
 
 ## License
 
