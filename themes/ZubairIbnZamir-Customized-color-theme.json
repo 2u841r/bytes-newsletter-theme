@@ -1,9 +1,9 @@
 {
     "name": "ZubairIbnZamir",
     "colors": {
-        "editor.background": "#263238",
+        "editor.background": "#0D1117",
         "editor.foreground": "#C0C5CE",
-        "activityBarBadge.background": "#007acc",
+        "activityBarBadge.background": "#c4c8ca",
         "sideBarTitle.foreground": "#bbbbbb"
     },
     "tokenColors": [
