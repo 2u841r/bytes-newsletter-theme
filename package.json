@@ -2,7 +2,7 @@
   "name": "zubairibnzamir-bytes-newsletter",
   "displayName": "Bytes Newletter Theme",
   "description": "Bytes dot DEV Newletter / Tyler form UI dot DEV theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ZubairIbnZamir",
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
     "ui dot dev",
     "bytes dot dev"
   ],
-  
   "engines": {
     "vscode": "^1.91.0"
   },
