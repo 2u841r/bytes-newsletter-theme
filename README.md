@@ -30,18 +30,18 @@ The optimized dark theme for web development.
 
 ### VSC: JS
 
-![New Moon Screenshot JS](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/js.png)
+![New Moon Screenshot JS](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/js.png)
 
 ### VSC: JSX
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/jsxoriginal.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/jsxoriginal.png)
 
 ### VSC: JSX Colorized+ 
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/jsxcolorized.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/jsxcolorized.png)
 
 ### VSC: HTML 
-![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/html.PNG)
+![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/raw/main/images/html.png)
 
 ## Acknowledgements
 
