@@ -21,7 +21,7 @@ The optimized dark theme for web development.
 | Variable, Name, Type, Tag  |  Aero  | ![#12b5e5](https://placehold.it/15/12b5e5/000000?text=+) `#12b5e5` |
 | Attribute     | Green (Pigment)   | ![#0ba95b](https://placehold.it/15/0ba95b/000000?text=+) `#0ba95b` |
 | Function, Boolean  | Middle Blue Purple  | ![#9d7dce](https://placehold.it/15/9d7dce/000000?text=+) `#9d7dce` |
-| Comment, Regex, Template  | Blue-Gray (Crayola)  | ![#C0C5CE](https://placehold.it/15/C0C5CE/000000?text=+) `#C0C5CE` |
+| Comment, Regex, Template| Blue-Gray (Crayola) | ![#c0c5ce](https://placehold.it/15/C0C5CE/000000?text=+) `#c0c5ce` |
 | Number          |  Spanish Yellow       | ![#fcba28](https://placehold.it/15/fcba28/000000?text=+) `#fcba28` |
 | String          | Atomic Tangerine  | ![#f99157](https://placehold.it/15/f99157/000000?text=+) `#f99157` |
 | Punctuation         | Beige       | ![#f9f4da](https://placehold.it/15/f9f4da/000000?text=+) `#f9f4da` |
@@ -30,19 +30,18 @@ The optimized dark theme for web development.
 
 ### VSC: JS
 
-![New Moon Screenshot JS](https://github.com/2u841r/bytes-newsletter-theme/raw/master/images/js.png)
+![New Moon Screenshot JS](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/js.png)
 
 ### VSC: JSX
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/master/images/jsxoriginal.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/jsxoriginal.png)
 
 ### VSC: JSX Colorized+ 
 
-![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/raw/master/images/jsxcolorized.png)
+![New Moon Screenshot JSX](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/jsxcolorized.png)
 
 ### VSC: HTML 
-![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/raw/master/images/html.png)
-
+![New Moon Screenshot HTML](https://github.com/2u841r/bytes-newsletter-theme/blob/main/images/html.PNG)
 
 ## Acknowledgements
 
