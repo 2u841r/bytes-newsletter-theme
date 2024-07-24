@@ -26,6 +26,7 @@ The optimized dark theme for web development.
 | Punctuation               | Beige               | ![#f9f4da](https://placehold.it/15/f9f4da/000000?text=+) `#f9f4da` |
 
 ## Screenshots
+(Use Colorized+ Version, if you want to ignore too much Gray / ![#c0c5ce](https://placehold.it/15/C0C5CE/000000?text=+) )
 
 ### HTML
 
@@ -52,6 +53,7 @@ The optimized dark theme for web development.
 - Originally inspired by [Bytes.dev](https://Bytes.dev).
 - Tutorial by [Coder Coder](https://www.youtube.com/watch?v=pGzssFNtWXw)
 - Color Names Collected from [colorprofessor.com](https://colorprofessor.com).
+- Thanks to [Tania Rascia](https://github.com/taniarascia) for a few different reasons. 
 
 ## Credits
 

@@ -14,10 +14,10 @@
     "dark theme",
     "tyler",
     "uidev",
-    "bytes dev",
-    "bytes newsletter",
-    "ui dot dev",
-    "bytes dot dev"
+    "bytesdev",
+    "bytesnewsletter",
+    "ui.dev",
+    "bytes.dev"
   ],
   "engines": {
     "vscode": "^1.91.0"
@@ -28,14 +28,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Bytes Newletter Colorized+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZubairIbnZamir-color-theme-All.json"
+      },
+      {
         "label": "Bytes Newletter Original",
         "uiTheme": "vs-dark",
         "path": "./themes/ZubairIbnZamir-color-theme.json"
-      },
-      {
-        "label": "Bytes Newletter Colorized+",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ZubairIbnZamir-Customized-color-theme.json"
       }
     ]
   }

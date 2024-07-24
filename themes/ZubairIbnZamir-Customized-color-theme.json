@@ -1,5 +1,5 @@
 {
-    "name": "ZubairIbnZamir",
+    "name": "Bytes Newsletter Theme Colorized+",
     "colors": {
         "editor.background": "#0D1117",
         "editor.foreground": "#C0C5CE",
@@ -107,6 +107,7 @@
                 "string.regexp",
                 "string.regexp keyword.operator.or.regexp",
                 "string.regexp punctuation.definition.string",
+                "punctuation.definition.comment",
             ],
             "settings": {
                 "foreground": "#C0C5CE"
