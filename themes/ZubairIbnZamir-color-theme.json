@@ -78,7 +78,8 @@
             "name": "#fcba28",
             "scope": [
                 "constant.numeric",
-                "string.quoted.double.html"
+                "string.quoted.double.html",
+                "text.html.derivative string"
             ],
             "settings": {
                 "foreground": "#fcba28"
@@ -89,7 +90,9 @@
             "scope": [
                 "string",
                 "punctuation.definition.string",
-                "string.quoted.double.js.jsx punctuation.definition.string"
+                "string.quoted.double.js.jsx punctuation.definition.string",
+                "text.html.derivative source.js string",
+                "text.html.derivative source.js punctuation.definition.string"
             ],
             "settings": {
                 "foreground": "#f99157"
@@ -113,7 +116,7 @@
         {
             "name": "Unified Punctuation Color",
             "scope": [
-                "string.quoted.double.html punctuation.definition.string",
+                "text.html.derivative punctuation.definition.string",
                 "tag.begin.html",
                 "tag.end.html",
                 "meta.brace",
