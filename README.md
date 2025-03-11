@@ -19,17 +19,17 @@ The optimized dark theme for web development.
 
 | Usage                     | Palette             | Hex Code                                                           |
 | ------------------------- | ------------------- | ------------------------------------------------------------------ |
-| Keyword, Storage, Entity  | Pink Sherbet        | ![#f38ba3](https://placehold.it/15/f38ba3/ffffff?text=+) `#f38ba3` |
-| Variable, Name, Type, Tag | Aero                | ![#12b5e5](https://placehold.it/15/12b5e5/000000?text=+) `#12b5e5` |
-| Attribute                 | Green (Pigment)     | ![#0ba95b](https://placehold.it/15/0ba95b/000000?text=+) `#0ba95b` |
-| Function, Boolean         | Middle Blue Purple  | ![#9d7dce](https://placehold.it/15/9d7dce/000000?text=+) `#9d7dce` |
-| Comment, Regex, Template  | Blue-Gray (Crayola) | ![#c0c5ce](https://placehold.it/15/C0C5CE/000000?text=+) `#c0c5ce` |
-| Number                    | Spanish Yellow      | ![#fcba28](https://placehold.it/15/fcba28/000000?text=+) `#fcba28` |
-| String                    | Atomic Tangerine    | ![#f99157](https://placehold.it/15/f99157/000000?text=+) `#f99157` |
-| Punctuation               | Beige               | ![#f9f4da](https://placehold.it/15/f9f4da/000000?text=+) `#f9f4da` |
+| Keyword, Storage, Entity  | Pink Sherbet        | ![#f38ba3](https://placehold.co/15/f38ba3/ffffff?text=+) `#f38ba3` |
+| Variable, Name, Type, Tag | Aero                | ![#12b5e5](https://placehold.co/15/12b5e5/000000?text=+) `#12b5e5` |
+| Attribute                 | Green (Pigment)     | ![#0ba95b](https://placehold.co/15/0ba95b/000000?text=+) `#0ba95b` |
+| Function, Boolean         | Middle Blue Purple  | ![#9d7dce](https://placehold.co/15/9d7dce/000000?text=+) `#9d7dce` |
+| Comment, Regex, Template  | Blue-Gray (Crayola) | ![#c0c5ce](https://placehold.co/15/C0C5CE/000000?text=+) `#c0c5ce` |
+| Number                    | Spanish Yellow      | ![#fcba28](https://placehold.co/15/fcba28/000000?text=+) `#fcba28` |
+| String                    | Atomic Tangerine    | ![#f99157](https://placehold.co/15/f99157/000000?text=+) `#f99157` |
+| Punctuation               | Beige               | ![#f9f4da](https://placehold.co/15/f9f4da/000000?text=+) `#f9f4da` |
 
 ## Screenshots
-(Use Colorized+ Version, if you want to ignore too much Gray / ![#c0c5ce](https://placehold.it/15/C0C5CE/000000?text=+) )
+(Use Colorized+ Version, if you want to ignore too much Gray / ![#c0c5ce](https://placehold.co/15/C0C5CE/000000?text=+) )
 
 ### HTML
 
