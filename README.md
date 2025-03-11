@@ -4,7 +4,10 @@
 
 The optimized dark theme for web development.
 
+[open-vsx link](https://open-vsx.org/extension/ZubairIbnZamir/bytes-newsletter-theme)
+
 ## Intuitive Syntax Highlighting
+
 
 **Bytes Newsletter Theme** is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, and JavaScript (React).
 
