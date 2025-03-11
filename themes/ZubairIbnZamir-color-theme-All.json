@@ -300,7 +300,7 @@
         "entity",
         "meta.at-rule.media.header.css",
         "variable.other.readwrite.js.jsx",
-        "meta.tag.metadata.doctype.html entity.name.tag.html", 
+        "meta.tag.metadata.doctype.html entity.name.tag.html",
         "meta.tag.metadata.doctype.html entity.other.attribute-name.html"
       ],
       "settings": {
@@ -328,7 +328,7 @@
         "source.css support.constant",
         "meta.property-value.css",
         "text.html.derivative source.js string",
-         "text.html.derivative source.js punctuation.definition.string"
+        "text.html.derivative source.js punctuation.definition.string"
       ],
       "settings": {
         "foreground": "#f99157"
@@ -408,7 +408,11 @@
       }
     },
     {
-      "scope": ["punctuation", "meta.brace", "text.html.derivative punctuation.definition.string"],
+      "scope": [
+        "punctuation",
+        "meta.brace",
+        "text.html.derivative punctuation.definition.string"
+      ],
       "settings": {
         "foreground": "#f9f4da"
       }
